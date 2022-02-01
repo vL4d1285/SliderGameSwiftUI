@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D03EDC1F27A88A06008A2067 /* SliderFromUIKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = D03EDC1E27A88A06008A2067 /* SliderFromUIKit.swift */; };
 		D0FEAA0527A833FD0025244E /* SliderGameSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0FEAA0427A833FD0025244E /* SliderGameSwiftUIApp.swift */; };
 		D0FEAA0727A833FD0025244E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0FEAA0627A833FD0025244E /* ContentView.swift */; };
 		D0FEAA0927A833FE0025244E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0FEAA0827A833FE0025244E /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D03EDC1E27A88A06008A2067 /* SliderFromUIKit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderFromUIKit.swift; sourceTree = "<group>"; };
 		D0FEAA0127A833FD0025244E /* SliderGameSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SliderGameSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0FEAA0427A833FD0025244E /* SliderGameSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderGameSwiftUIApp.swift; sourceTree = "<group>"; };
 		D0FEAA0627A833FD0025244E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				D0FEAA0427A833FD0025244E /* SliderGameSwiftUIApp.swift */,
 				D0FEAA0627A833FD0025244E /* ContentView.swift */,
+				D03EDC1E27A88A06008A2067 /* SliderFromUIKit.swift */,
 				D0FEAA0827A833FE0025244E /* Assets.xcassets */,
 				D0FEAA0A27A833FE0025244E /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				D0FEAA0727A833FD0025244E /* ContentView.swift in Sources */,
 				D0FEAA0527A833FD0025244E /* SliderGameSwiftUIApp.swift in Sources */,
+				D03EDC1F27A88A06008A2067 /* SliderFromUIKit.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
