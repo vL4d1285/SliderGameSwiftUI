@@ -32,7 +32,7 @@ struct ContentView: View {
                         Text("\(Int(currentValue))")
                     }
             }
-            Button("Start over") { self.startOver()}
+            Button("Start over ?") { self.startOver()}
         }
     }
     
